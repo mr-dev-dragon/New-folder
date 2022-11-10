@@ -1,0 +1,14 @@
+{
+  "name": "dragon_univers",
+  "version": "1.0.0",
+  "description": "lets make it ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test "
+  },
+  "keywords": [
+    "dragon"
+  ],
+  "author": "ahmed aoulad amar",
+  "license": "ISC"
+}
